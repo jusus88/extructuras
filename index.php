@@ -1,6 +1,6 @@
 <?php 
 	$cantidad=0;
-	$nombres="smith"
+	$nombres="smith";
 	// es un  lenguaje de expresiones
 	//echo "Este mensaje es si la expresion devuelve true"; 
 	//echo "<br/>linea2: Este mensaje es si la expre devuelve true" ;
@@ -30,7 +30,7 @@
  			<td> 15645664</td>
  		</tr>
  		<?php endid; ?>
- 		
+
  </table>
 
 
